@@ -40,39 +40,7 @@ Extract → Transform → Load → Banco de Dados → Análise
 
 ---
 
-## 📂 Estrutura do Repositório
 
-```
-etl-automation-data-pipeline/
-│
-├── database/
-│   ├── connection.py
-│   ├── create_tables.sql
-│   └── queries.sql
-│
-├── etl/
-│   ├── extract.py
-│   ├── transform.py
-│   ├── load.py
-│   └── pipeline.py
-│
-├── automation/
-│   ├── web_scraping.py
-│   ├── selenium_bot.py
-│   └── api_integration.py
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## 🔄 Fluxo do Pipeline
 
@@ -178,14 +146,4 @@ Verusca Taiane Schimmels da Silva
 Analista de Suporte Técnico | Futura Analista de Dados
 Rio de Janeiro - Brasil
 
----
-
-Se você quiser, posso agora:
-
-* 🔥 Deixar esse README nível recrutador internacional
-* 🇺🇸 Criar versão em inglês
-* 📊 Adaptar ele para vaga específica
-* 🧠 Adicionar métricas e impacto (modo senioridade)
-
-Qual próximo passo você quer dar?
 
